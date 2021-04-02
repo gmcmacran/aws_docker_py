@@ -13,7 +13,7 @@ Big take away is data science only needs to write a few extra lines, and enginee
 
 Mains steps:
 * Create simulated dataset.
-* Train a model
+* Train a model.
 * Define a scoring function.
 * Expose an endpoint.
 * Containerize with docker.
