@@ -1,5 +1,5 @@
 There is a natural friction between Data Scientists and Software Engineers. Data Scientists make machine learning models and reports. 
-Typically they don't have experance around app creation. Software Engineers make apps but don't do machine learning. There is both a 
+Typically they don't have experience around app creation. Software Engineers make apps but don't do machine learning. There is both a 
 spoken language barrier and programming language barrier between the two teams. 
 
 How can devs interact with a model given Java or C# can't load scikit learn files? How can model delivery be defined when 
