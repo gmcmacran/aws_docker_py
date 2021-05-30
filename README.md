@@ -1,9 +1,5 @@
-There is a natural friction between Data Scientists and Software Engineers. Data Scientists make machine learning models and reports. 
-Typically they don't have experience around app creation. Software Engineers make apps but don't do machine learning. There is both a 
-spoken language barrier and programming language barrier between the two teams. 
-
-This repo provides a minimal proof on concept around bridging this gap. The Data Scientist defines a prediction function and adds a 
-few more lines to expose an endpoint. The docker file containerizes everything. After this, the Dev Ops team can upload the container 
+This repo provides a minimal proof on concept around containerizing machine learning models. The Data Scientist defines a prediction function 
+and adds a few more lines to expose an endpoint. The docker file containerizes everything. After this, the Dev Ops team can upload the container 
 to their cloud of choice and the Software Engineers can call an endpoint.
 
 Big take away is data science only needs to write a few extra lines, and engineering only needs to call endpoints.
